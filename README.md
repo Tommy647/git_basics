@@ -135,4 +135,4 @@ If the PR is approved, the branch is merged into the develop branch on the remot
 [Sourcetree (Atlassian/Bitbucket)](https://www.sourcetreeapp.com/)
 ## Advanced
 ### rebase TODO    
-### squash TODO  
+### squash TODO Sam Question
