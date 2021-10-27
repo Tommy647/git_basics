@@ -123,6 +123,7 @@ Commit and push, little and often - it is cheap.
 Code is then prepared for a Peer Review, via a Pull Request (PR) which takes place on the remote repository (GitHub/GitLab).  
 Opening the PR should trigger the CI/CD pipeline, to run the tests/linters/integration tests ready to build a release.  
 
+If the PR is approved, the branch is merged into the develop branch on the remote repo. It is a good practice here to alert other team members the main branches have updated.
 ## Tools
 ### Command line
 ### Configuring via the command line
